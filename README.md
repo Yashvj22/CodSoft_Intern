@@ -4,9 +4,9 @@ CODSOFT Internship
 This repository contains code of projects I've worked on during my internship at `CODSOFT`. As an intern, I've had the opportunity to learn, grow, and create exciting projects under the mentorship of the CodSoft team.
 
 ## Repository Contents
-Task 1: [To-do List](Task1_ToDoList.py)</br>
-Task 2: [Calculator](Task2_Calculator.py)</br>
-Task 3: [Password Generator](Task3_PasswordGenerator.py)</br>
+Task 1: [To-do List]</br>
+Task 2: [GUI Based Calculator]</br>
+Task 3: [Password Generator]</br>
 
 # Task 1: To-do List
 This is a simple To-do List application developed in Python using the Tkinter library. The program allows users to add, delete, and update tasks in a user-friendly graphical interface</br>
